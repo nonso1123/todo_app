@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ['todo-app-bq06.onrender.com', '127.0.0.1', 'localhost']
 
 CORS_ALLOWED_ORIGINS = [
 "http://localhost:5173",
-"https://todo-app-bq06.onrender.com",
+"https://todo-app-cdx3.onrender.com",
 ]
 
 # Application definition

@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-7w$+9v%k^&8!ukk6fg#8ko-6fu964sznpo!r=&8)il&1!v*u&w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['todo-app-bq06.onrender.com', '127.0.0.1', 'localhost']
 
 CORS_ALLOWED_ORIGINS = [
 "http://localhost:5173",
